@@ -44,7 +44,7 @@ Retrieves content from third party sources (The Movie DB, Gogoanime, etc.); and 
 
 ## Try it out
 
-This app is still under development, so no official release as yet. However, if you have an android device and want to try this app, you should be able to use it through the Expo Go app, with this link exp://exp.host/@reidnsc/Doupanime .
+This app is still under development, so no official release as yet. However, if you have an android device and want to try this app, you should be able to use it through the Expo Go app, with this link https://expo.io/@reidnsc/Doupanime?release-channel=staging .
 It is mainly for testing purposes. Please let me know what you think of it thus far 🙏🏾. Thank you.
 
 ## DISCLAIMER
