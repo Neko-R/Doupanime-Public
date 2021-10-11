@@ -5,6 +5,25 @@
 
 Retrieves content from third party sources (The Movie DB, Gogoanime, etc.); and makes them available to you in a user-friendly interface.
 
+## Screenshots
+
+[<img src="meta/screenshots/image_1.jpg" width=160>](meta/screenshots/image_1.jpg)
+[<img src="meta/screenshots/image_2.jpg" width=160>](meta/screenshots/image_2.jpg)
+[<img src="meta/screenshots/image_3.jpg" width=160>](meta/screenshots/image_3.jpg)
+[<img src="meta/screenshots/image_4.jpg" width=160>](meta/screenshots/image_4.jpg)
+[<img src="meta/screenshots/image_5.jpg" width=160>](meta/screenshots/image_5.jpg)
+[<img src="meta/screenshots/image_6.jpg" width=160>](meta/screenshots/image_6.jpg)
+[<img src="meta/screenshots/image_7.jpg" width=160>](meta/screenshots/image_7.jpg)
+[<img src="meta/screenshots/image_8.jpg" width=160>](meta/screenshots/image_8.jpg)
+[<img src="meta/screenshots/image_9.jpg" width=160>](meta/screenshots/image_9.jpg)
+[<img src="meta/screenshots/image_10.jpg" width=160>](meta/screenshots/image_10.jpg)
+[<img src="meta/screenshots/image_14.jpg" width=160>](meta/screenshots/image_14.jpg)
+[<img src="meta/screenshots/image_12.jpg" width=160>](meta/screenshots/image_12.jpg)
+[<img src="meta/screenshots/image_13.jpg" width=160>](meta/screenshots/image_13.jpg)
+[<img src="meta/screenshots/image_11.jpg" width=160>](meta/screenshots/image_11.jpg)
+[<img src="meta/screenshots/image_15.jpg" width=160>](meta/screenshots/image_15.jpg)
+[<img src="meta/screenshots/image_16.jpg" width=405>](meta/screenshots/image_16.jpg)
+
 ### Features
 
 - Search Anime and other animations
