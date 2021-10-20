@@ -1,6 +1,9 @@
 <p align="center"><a href="https://github.com/Neko-R/Side"><img src="/assets/icon-transparent.png" width="250"></a></p> 
 <h4 align="center">Anime and Cartoon streaming app. A personal side project.</h4> 
 <hr>
+
+<h3 align="center">Download <a href="https://play.google.com/store/apps/details?id=com.reidnsc.doupanime">here.</a></h3> 
+
 ## Description
 
 Retrieves content from third party sources (The Movie DB, Gogoanime, etc.); and makes them available to you in a user-friendly interface.
@@ -40,11 +43,6 @@ Retrieves content from third party sources (The Movie DB, Gogoanime, etc.); and 
 - <a href="https://streamani.net/">Streamani</a>
 - <a href="https://github.com/GyanendroKh/gogoanime-api">GoGoAnime API</a> (created by <a href="https://github.com/GyanendroKh)">GyanendroKh</a>)
 - <a href="https://docs.expo.dev/">Expo</a>
-
-## Try it out
-
-This app is still under development, so no official release as yet. However, if you have an android device and want to try this app, you should be able to use it through the Expo Go app, with this link https://expo.io/@reidnsc/Doupanime?release-channel=staging .
-It is mainly for testing purposes. Please let me know what you think of it thus far 🙏🏾. Thank you.
 
 ## DISCLAIMER
 
