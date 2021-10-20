@@ -2,7 +2,7 @@
 <h4 align="center">Anime and Cartoon streaming app. A personal side project.</h4> 
 <hr>
 
-<h3 align="center">Download <a href="https://play.google.com/store/apps/details?id=com.reidnsc.doupanime">here.</a></h3> 
+<h3 align="center">Download for android <a href="https://play.google.com/store/apps/details?id=com.reidnsc.doupanime">here.</a></h3> 
 
 ## Description
 
