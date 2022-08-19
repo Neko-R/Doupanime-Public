@@ -19,7 +19,8 @@ Retrieves content from third party sources (The Movie DB, Gogoanime, etc.); and 
 [`<img src="meta/screenshots/image_7.jpg" width=160>`](meta/screenshots/image_7.jpg)
 [`<img src="meta/screenshots/image_8.jpg" width=160>`](meta/screenshots/image_8.jpg)
 [`<img src="meta/screenshots/image_9.jpg" width=160>`](meta/screenshots/image_9.jpg)
-[`<img src="meta/screenshots/image_10.jpg" width=160> `](meta/screenshots/image_10.jpg)`<img src="meta/screenshots/image_11.jpg" width=160>`
+[`<img src="meta/screenshots/image_10.jpg" width=160>`](meta/screenshots/image_10.jpg)
+[`<img src="meta/screenshots/image_11.jpg" width=160>`](meta/screenshots/image_11.jpg)
 
 ### Features
 
