@@ -33,11 +33,11 @@ Retrieves content from third party sources (The Movie DB, Gogoanime, etc.); and 
 
 ### Credits
 
-- `<a href="https://www.themoviedb.org/">`The Movie DB `</a>`
-- `<a href="https://gogoanime.pe/">`GoGoAnime `</a>`
-- `<a href="https://streamani.net/">`Streamani `</a>`
-- `<a href="https://github.com/GyanendroKh/gogoanime-api">`GoGoAnime API `</a>` (created by `<a href="https://github.com/GyanendroKh)">`GyanendroKh `</a>`)
-- `<a href="https://docs.expo.dev/">`Expo `</a>`
+- <a href="https://www.themoviedb.org/">The Movie DB </a>
+- <a href="https://gogoanime.pe/">GoGoAnime </a>
+- <a href="https://streamani.net/">Streamani </a>
+- <a href="https://github.com/GyanendroKh/gogoanime-api">GoGoAnime API </a> (created by <a href="https://github.com/GyanendroKh)">GyanendroKh </a>)
+- <a href="https://docs.expo.dev/">Expo </a>
 
 ## DISCLAIMER
 
