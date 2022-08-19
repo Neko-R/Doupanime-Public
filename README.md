@@ -2,7 +2,7 @@
 <h4 align="center">Anime and Cartoon streaming app. A personal side project.</h4> 
 <hr>
 
-<h3 align="center">Download for android <a href="https://play.google.com/store/apps/details?id=com.reidnsc.doupanime">here.</a></h3> 
+<h3 align="center">Contact me for download on android</a></h3> 
 
 ## Description
 
@@ -22,10 +22,6 @@ Retrieves content from third party sources (The Movie DB, Gogoanime, etc.); and 
 [<img src="meta/screenshots/image_10.jpg" width=160>](meta/screenshots/image_10.jpg)
 [<img src="meta/screenshots/image_14.jpg" width=160>](meta/screenshots/image_14.jpg)
 [<img src="meta/screenshots/image_12.jpg" width=160>](meta/screenshots/image_12.jpg)
-[<img src="meta/screenshots/image_13.jpg" width=160>](meta/screenshots/image_13.jpg)
-[<img src="meta/screenshots/image_11.jpg" width=160>](meta/screenshots/image_11.jpg)
-[<img src="meta/screenshots/image_15.jpg" width=160>](meta/screenshots/image_15.jpg)
-[<img src="meta/screenshots/image_16.jpg" width=405>](meta/screenshots/image_16.jpg)
 
 ### Features
 
